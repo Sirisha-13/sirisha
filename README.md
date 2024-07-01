@@ -52,10 +52,10 @@ Open Terminal: Open your terminal or command prompt.
 
 Clone the Forked Repository:
 
-git clone https://github.com/yashksaini-coder/Prodigy-InfoTech
+git clone https://github.com/Sirisha-13/sirisha
 Navigate to the Repository Directory:
 
-cd Prodigy-InfoTech
+cd sirisha
 🛠️ Install Dependencies
 Create a Virtual Environment (optional but recommended):
 
@@ -93,7 +93,7 @@ Submit the pull request.
 📦 Keeping Your Fork Up-to-Date
 Add the Original Repository as a Remote:
 
-git remote add upstream https://github.com/yashksaini-coder/Prodigy-InfoTech
+git remote add upstream https://github.com/Sirisha-13/sirisha
 Fetch Updates from the Original Repository:
 
 git fetch upstream
